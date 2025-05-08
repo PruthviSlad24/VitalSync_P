@@ -1,4 +1,5 @@
-VitalSync
+
+
 VitalSync is a privacy-first smartwatch-to-smartwatch communication platform that enables real-time health monitoring without relying on mobile phones or cellular networks.
 
 Backed by CoCreate Ventures, we are a team of 9 passionate engineers developing a purpose-driven wearable solution to transform emergency response, eldercare, and off-grid communication.
